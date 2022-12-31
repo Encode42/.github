@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-This is a modified version of [PrismLauncher's Code of Conduct][prism], which is a modified version of the Contributor Covenant.
+This is a modified version of PrismLauncher's Code of Conduct, which is a modified version of the Contributor Covenant.
 See commit history to see our changes.
 
 ## Our Pledge
