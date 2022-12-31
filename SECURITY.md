@@ -8,9 +8,9 @@ If a vulnerability only occurs in an outdated release, action will not be taken.
 Backports will not be officially created or endorsed, as it is always advised to use our latest version.
 
 ## Reporting a Vulnerability
-For any vulnerability, you may use GitHub's private vulnerability reporting found in the security tab of the repository. 
+For any vulnerability, you may use GitHub's private vulnerability reporting found in the security tab of the repository. (if enabled)
 
-However, if you would not like to use this method, you may:
+However, if this method does not work, you may:
 - (If the vulnerability is minor), create a new issue on the repository.
 - (If the vulnerability is minor), send a message in the repository's support method.
 - Privately message the repository members.
